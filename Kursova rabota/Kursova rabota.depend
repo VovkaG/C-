@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1639653080 source:d:\codeblock_folder\kursova rabota\main.cpp
+	"StudentGrades.h"
+	"Student.h"
+	"FileManipulation.h"
+	<iostream>
+	<fstream>
+	<string.h>
+
+1639514321 d:\codeblock_folder\kursova rabota\student.h
+	<iostream>
+
+1639652334 source:d:\codeblock_folder\kursova rabota\student.cpp
+	"Student.h"
+	<iostream>
+
+1639592922 source:d:\codeblock_folder\kursova rabota\studentgrades.cpp
+	"StudentGrades.h"
+	"Student.h"
+	<iostream>
+	<string>
+
+1639597506 d:\codeblock_folder\kursova rabota\studentgrades.h
+	"Student.h"
+	<iostream>
+	<vector>
+
+1639652334 source:d:\codeblock_folder\kursova rabota\filemanipulation.cpp
+	"FileManipulation.h"
+
+1639653660 d:\codeblock_folder\kursova rabota\filemanipulation.h
+	<iostream>
+	<fstream>
+	<vector>
+	<sstream>
+	"studentgrades.h"
+	"Student.h"
+
